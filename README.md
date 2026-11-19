@@ -18,6 +18,16 @@ Exam Duty Roster Manager helps manage departmental personnel, examination schedu
 - **Conflict Prevention:** Prevent personnel from being assigned to multiple examinations on the same date.
 - **PDF Roster Generation:** Generate a consolidated, printable examination duty roster.
 
+## Download the Android App
+
+**Latest Version: v1.0.0**
+
+[Download Exam Duty Roster Manager APK](https://github.com/AaqibZ/exam-duty-roster-manager/releases/download/v1.0.0/app-release.apk)
+
+For installation, download the APK to your Android device and follow the installation prompts.
+
+[View All Releases](https://github.com/AaqibZ/exam-duty-roster-manager/releases)
+
 ## Application Screenshots
 
 ### Android App Icon
