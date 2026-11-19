@@ -18,6 +18,28 @@ Exam Duty Roster Manager helps manage departmental personnel, examination schedu
 - **Conflict Prevention:** Prevent personnel from being assigned to multiple examinations on the same date.
 - **PDF Roster Generation:** Generate a consolidated, printable examination duty roster.
 
+## Application Screenshots
+
+### Android App Icon
+
+![Android App Icon](screenshots/android-icon.png)
+
+### Welcome Screen
+
+![Welcome Screen](screenshots/welcome.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Exam Duty PDF Roster Screen
+
+![Exam Duty PDF Roster Screen](screenshots/duty-roster-screen.png)
+
+### Generated PDF Roster
+
+![Generated PDF Roster](screenshots/generated-pdf.png)
+
 ## Technology Stack
 
 - Flutter
@@ -36,6 +58,13 @@ lib/
 
 assets/
 └── images/
+
+screenshots/
+├── android-icon.png
+├── welcome.png
+├── dashboard.png
+├── duty-roster-screen.png
+└── generated-pdf.png
 ```
 
 ## Getting Started
@@ -51,13 +80,13 @@ assets/
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/AaqibZ/exam-duty-roster-manager.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd exam_duty_roster
+   cd exam-duty-roster-manager
    ```
 
 3. Install dependencies:
